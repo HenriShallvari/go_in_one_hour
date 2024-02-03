@@ -1,3 +1,3 @@
-module one_hour
+module learning_go
 
 go 1.21.1
